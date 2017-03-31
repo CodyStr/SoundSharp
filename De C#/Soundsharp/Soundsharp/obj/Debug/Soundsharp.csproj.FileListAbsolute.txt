@@ -1,0 +1,6 @@
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\bin\Debug\Soundsharp.exe.config
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\obj\Debug\Soundsharp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\bin\Debug\Soundsharp.exe
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\bin\Debug\Soundsharp.pdb
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\obj\Debug\Soundsharp.exe
+D:\Dropbox\Projecten Rijnijssel\Project 3 (SoundSharp)\De C#\Soundsharp\Soundsharp\obj\Debug\Soundsharp.pdb
